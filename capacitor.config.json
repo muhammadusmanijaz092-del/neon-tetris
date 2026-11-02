@@ -1,0 +1,8 @@
+{
+  "appId": "com.neontetris.app",
+  "appName": "Neon Tetris",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
